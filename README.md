@@ -6,7 +6,7 @@ O AnimeIngá é uma comunidade dedicada a oferecer um ambiente livre de assédio
 
 Nós não toleramos o assédio aos participantes da comunidade, sob qualquer forma.
 
-Linguagem e imagens sexuais não são apropriadas em nenhum espaço, incluindo palestras, workshops, festas, discussões do Meetup e outras mídias on-line. Os participantes que violarem essas regras poderão ser expulsos dos Meetups do AfterData. A punição pode ir desde a expulsão do membro, até ser banido de eventos futuros promovidos pelo AfterData e comunidades adjacentes.
+Linguagem e imagens sexuais não são apropriadas em nenhum espaço, incluindo palestras, workshops, festas, edições anusis do evento. Os participantes que violarem essas regras poderão ser expulsos de tudo que engloba a comunidade do AnimeIngá. A punição pode ir desde a expulsão do membro, até ser banido de eventos futuros promovidos pelo AnimeIngá e comunidades adjacentes.
 
 ## Versão Completa
 
@@ -77,7 +77,7 @@ Se um membro da comunidade se envolver em um comportamento inaceitável, os orga
 
 ### 6. Diretrizes para Reportar
 
-Se você estiver sujeito ou testemunhar um comportamento inaceitável ou tiver outras preocupações, notifique o organizador da comunidade o quanto antes. [E-mail](contato@afterdata.in)
+Se você estiver sujeito ou testemunhar um comportamento inaceitável ou tiver outras preocupações, notifique o organizador da comunidade o quanto antes. [E-mail](contato@animeinga.com.br)
 
 Além disso, os organizadores da comunidade estão disponíveis para ajudar os membros da comunidade a se engajarem com a aplicação da lei local ou, de outra forma, ajudar aqueles que experimentam um comportamento inaceitável a se sentirem seguros. No contexto de eventos em pessoa, os organizadores também fornecerão acompanhantes conforme desejado pela pessoa que está passando por dificuldades.
 
@@ -90,7 +90,7 @@ Esperamos que todos os participantes da comunidade (contribuintes, remunerados o
 Este código de conduta e seus procedimentos relacionados também se aplicam ao comportamento inaceitável que ocorre fora do escopo das atividades comunitárias, quando esse comportamento tem o potencial de afetar adversamente a segurança e o bem-estar dos membros da comunidade.
 
 ### Referências
-Este código de conduta é distribuído sob uma licença [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/), feito pela comunidade do [AfterData](https://afterdata.in).
+Este código de conduta é distribuído sob uma licença [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/), feito pela comunidade do [AfterData](https://afterdata.in), e adaptado para nossa comunidade.
 Com base e revisões a partir do [The Hack Day Manifesto](https://hackdaymanifesto.com), [CitizenCode](http://citizencodeofconduct.org/), [Conduta DevParaná](https://github.com/DeveloperParana/conduta), [Hack Code of Conduct](https://hackcodeofconduct.org), [Código de Conduta do Django](https://www.djangoproject.com/conduct/), [Politica Anti-Assédio do Geek Feminism](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
 Ultima Atualização: 12/12/2019
